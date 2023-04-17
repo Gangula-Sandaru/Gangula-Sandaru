@@ -5,13 +5,19 @@
 <h1 align="center">Hi 👋, I'm Gangula Sandaru Dinusantha.</h1>
 <h3 align="center">A passionate Python and Full-Stack developer from Sri lanka.</h3>
 
+
+
 <p align="center">
   <img align="center" src="https://thoughtwin.com/assets/img/Python_img.gif" width="400" alt="gangula-sandaru" />
 </p>
 
+
+
 <p align="center">
   <h4 align="center"> ❤-: I'm a Pythoneer (LOVE Python) :-❤ </h4>
 </p>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gangula-sandaru&label=Profile%20views&color=0e75b6&style=flat" alt="gangula-sandaru" /> </p>
 
