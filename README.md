@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Gangula Sandaru Dinusantha.</h1>
 <h3 align="center">A passionate Python and Full-Stack developer from Sri lanka.</h3>
 
-
-
 <p align="center">
   <img align="center" src="https://thoughtwin.com/assets/img/Python_img.gif" width="400" alt="gangula-sandaru" />
 </p>
