@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Python and Full-Stack developer from Sri lanka.</h3>
 
 <p align="center">
-  <img align="center" src="https://thoughtwin.com/assets/img/Python_img.gif" width="400" alt="python image" />
+  <img align="center" src="https://thoughtwin.com/assets/img/Python_img.gif" width="400" alt="animated python image" />
 </p>
 
 <p align="center">
