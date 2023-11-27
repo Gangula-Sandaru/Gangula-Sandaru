@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on **Yum Yum App**
 
-- 🌱 I’m currently learning **ROS and Android.**
+- 🌱 I’m currently learning **ROS and Neaural Network**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
