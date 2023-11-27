@@ -16,7 +16,7 @@
 
 <p align="left"> <a href="https://twitter.com/gangula_sandaru" target="blank"><img src="https://img.shields.io/twitter/follow/gangula_sandaru?logo=twitter&style=for-the-badge" alt="gangula_sandaru" /></a> </p>
 
-- 🔭 I’m currently working on **Yum Yum App**
+- 🔭 I’m currently working on **RacoonAI Engine**
 
 - 🌱 I’m currently learning **ROS and Neaural Network**
 
