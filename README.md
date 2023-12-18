@@ -1,7 +1,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <h1 align="center">Hi 👋, I'm Gangula Sandaru Dinusantha.</h1>
-<h3 align="center">A passionate Python and Full-Stack developer from Sri lanka. :)</h3>
+<h3 align="center">A passionate Python Full-Stack developer, A.I and Neural network developer from Sri lanka. :)</h3>
 
 <p align="center">
   <img align="center" src="https://thoughtwin.com/assets/img/Python_img.gif" width="400" alt="animated python image" />
