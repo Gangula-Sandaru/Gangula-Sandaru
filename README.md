@@ -11,8 +11,7 @@
 </p>
 
 
-![MasterHead](https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif)
-
+<iframe src="https://giphy.com/embed/eljCVpMrhepUSgZaVP" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/blue-white-brain-eljCVpMrhepUSgZaVP">via GIPHY</a></p>
 
 
 
