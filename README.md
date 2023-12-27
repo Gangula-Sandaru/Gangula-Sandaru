@@ -11,9 +11,11 @@
   <h4 align="center"> ❤-: I'm a Pythoneer (LOVE Python) :-❤ </h4>
 </p>
 
+
 <p align="center">
-  <img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWRrMjBiNjNldzA0ejFuc2MwaGJ3eDBnZWJzbzk3M2dxeW9nMzV3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eljCVpMrhepUSgZaVP/giphy.gif" />
+  <img align="center" src="https://media1.giphy.com/media/eljCVpMrhepUSgZaVP/giphy.gif" width="400" alt="animated python image" />
 </p>
+
 
 
 ![MasterHead](https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif)
