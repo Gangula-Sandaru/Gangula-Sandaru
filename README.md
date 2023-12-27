@@ -4,7 +4,8 @@
 <h3 align="center">A passionate Python Full-Stack developer, A.I and Neural network developer from Sri lanka. :)</h3>
 
 <p align="center">
-  <img align="center" src="https://thoughtwin.com/assets/img/Python_img.gif" width="400" alt="animated python image" />
+ <!-- <img align="center" src="https://thoughtwin.com/assets/img/Python_img.gif" width="400" alt="animated python image" /> -->
+  <img align = "center" scr="https://cdn.wallpapersafari.com/38/82/3oRU5A.jpg" width="400"/>
 </p>
 
 <p align="center">
@@ -12,13 +13,10 @@
 </p>
 
 
-<p align="center">
-  <img align="center" src="https://media3.giphy.com/media/PjJ1cLHqLEveXysGDB/giphy.gif" width="400" alt="animated python image" />
-</p>
-
-
-
 ![MasterHead](https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif)
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gangula-sandaru&label=Profile%20views&color=0e75b6&style=flat" alt="gangula-sandaru" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gangula-sandaru" alt="gangula-sandaru" /></a> </p>
@@ -53,3 +51,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gangula-sandaru&show_icons=true&locale=en" alt="gangula-sandaru" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gangula-sandaru&" alt="gangula-sandaru" /></p>
 
+![MasterHead](https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif)
