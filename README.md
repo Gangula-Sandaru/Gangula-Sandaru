@@ -11,7 +11,8 @@
   <h4 align="center"> ❤-: I'm a Pythoneer (LOVE Python) :-❤ </h4>
 </p>
 
-![MasterHead](https://images.squarespace-cdn.com/content/v1/60479868292a5d29e69ac6b9/d2f479f8-2005-43ae-bb36-e90333fa8f19/Future_of_Artificial_Intelligence.gif)
+![MasterHead](https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gangula-sandaru&label=Profile%20views&color=0e75b6&style=flat" alt="gangula-sandaru" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gangula-sandaru" alt="gangula-sandaru" /></a> </p>
