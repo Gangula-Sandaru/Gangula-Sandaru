@@ -3,10 +3,8 @@
 <h1 align="center">Hi 👋, I'm Gangula Sandaru Dinusantha.</h1>
 <h3 align="center">A passionate Python Full-Stack developer, A.I and Neural network developer from Sri lanka. :)</h3>
 
-<p align="center">
- <!-- <img align="center" src="https://thoughtwin.com/assets/img/Python_img.gif" width="400" alt="animated python image" /> -->
-  <img align = "center" scr="https://cdn.wallpapersafari.com/38/82/3oRU5A.jpg" width="400"/>
-</p>
+
+ ![MasterHead](https://www.atharvasystem.com/wp-content/uploads/2021/09/Python-with-Big-Data-a-future-Trend.png)
 
 <p align="center">
   <h4 align="center"> ❤-: I'm a Pythoneer (LOVE Python) :-❤ </h4>
