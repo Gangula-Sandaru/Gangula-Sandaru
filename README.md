@@ -47,4 +47,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gangula-sandaru&show_icons=true&locale=en" alt="gangula-sandaru" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gangula-sandaru&" alt="gangula-sandaru" /></p>
 
-![MasterHead](https://miro.medium.com/v2/resize:fit:1080/1*Z_-lE3mQOr4WKudO37gihQ.gif)https://miro.medium.com/v2/resize:fit:1080/1*Z_-lE3mQOr4WKudO37gihQ.gif)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1080/1*Z_-lE3mQOr4WKudO37gihQ.gif)
