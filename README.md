@@ -11,40 +11,6 @@
 </p>
 
 
-
-# Artificial Neural Network Model
-
-I've implemented a simple artificial neural network using Python and the TensorFlow library. This network consists of three layers: an input layer, a hidden layer with ReLU activation, and an output layer using softmax activation for multi-class classification.
-
-### Code Snippet:
-
-
-import tensorflow as tf
-
-# Define the architecture of the neural network
-model = tf.keras.Sequential([
-    tf.keras.layers.Dense(128, activation='relu', input_shape=(input_size,)),
-    tf.keras.layers.Dense(64, activation='relu'),
-    tf.keras.layers.Dense(output_classes, activation='softmax')
-])
-
-# Compile the model
-model.compile(optimizer='adam',
-              loss='sparse_categorical_crossentropy',
-              metrics=['accuracy'])
-
-# Train the model (data needs to be prepared beforehand)
-model.fit(train_data, train_labels, epochs=10, batch_size=32)
-
-# Evaluate the model
-test_loss, test_acc = model.evaluate(test_data, test_labels)
-print(f'Test accuracy: {test_acc}')
-
-
- ![MasterHead](https://giphy.com/gifs/blue-white-brain-eljCVpMrhepUSgZaVP)
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gangula-sandaru&label=Profile%20views&color=0e75b6&style=flat" alt="gangula-sandaru" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gangula-sandaru" alt="gangula-sandaru" /></a> </p>
 
